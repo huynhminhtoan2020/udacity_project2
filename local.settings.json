@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=congdinh2023prj2;AccountKey=FeP/nhJ6M8Y1bQyI9F2C+r5Ef4rl6ZwJiDqhlZ9o2ZfNIeOrDWQ2vPSPtN0I5pd+WbR+VjlR9buQ+AStb131AA==",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=congdinh2023prj2;AccountKey=FeP/nhJ6M8Y1bQyI9F2C+r5Ef4rl6ZwJiDqhlZ9o2ZfNIeOrDWQ2vPSPtN0I5pd+WbR+VjlR9buQ+AStb131AA==",
+    "WEBSITE_CONTENTSHARE": "neighborly-function95f9637d405f",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "116d1a9c-f6b9-426e-a3d6-f63a9cc13a6b",
+    "MyDbConnection": "mongodb://neighborly-cosmosdb:PbhlU4NuveT14I1TuEAbQ2QU50UWCSkQwl0b9sxC4KIFJXdddjwE2NN3hJxMNtOMMFLV8BOJ65KPACDb8DAHCg==@neighborly-cosmosdb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborly-cosmosdb@"
+  },
+  "ConnectionStrings": {},
+  "AzureWebJobsStorage": ""
+}
